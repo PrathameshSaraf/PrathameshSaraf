@@ -1,8 +1,8 @@
 
 
-<center><img src="![saraf1](https://user-images.githubusercontent.com/98448367/192060548-4e776d0a-33fc-457c-a99a-d698a1a01924.jpg)
-" width="100" height="200" align="center"></center>
-
+<div align="center">
+<img align="center" src="https://avatars.githubusercontent.com/u/98448367?s=400&u=ca025f4f7f18fc589a9eaa875ad8b874e708498e&v=4" width="230" height="300" >
+</div>
 <h3 align="center">
   Welcome to Prathamesh Saraf's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
