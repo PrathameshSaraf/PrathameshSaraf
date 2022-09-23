@@ -57,6 +57,8 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-00843A?logo=Flutter&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-0045896?logo=Django&logoColor=white"></a>
    </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -78,6 +80,9 @@
 ### 💻 Software and tools
 
 <p>
+<a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-A145F26.svg?logo=Pycharm&logoColor=white"></a>
+    <a href="#"><img alt="eclipse" src="https://img.shields.io/badge/eclipse-C45626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-5D00FF.svg?logo=IntelliJ IDEA&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -88,6 +93,7 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+     
 </p>
 
 
