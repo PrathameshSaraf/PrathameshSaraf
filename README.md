@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/PrathameshSaraf"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/PrathameshSaraf"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff4000&vCenter=true&size=22&pause=1000"></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
@@ -89,3 +89,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+
+<a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=PrathameshSaraf&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshSaraf&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
