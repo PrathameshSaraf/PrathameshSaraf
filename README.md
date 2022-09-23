@@ -1,10 +1,6 @@
 
-
-<div align="center">
-<img align="center" src="https://avatars.githubusercontent.com/u/98448367?s=400&u=ca025f4f7f18fc589a9eaa875ad8b874e708498e&v=4" width="230" height="300" >
-</div>
 <h3 align="center">
-  Welcome to Prathamesh Saraf's profile!
+  Welcome to <a href="www.prathameshsaraf.in" class="btn">Prathamesh Saraf's</a> profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
