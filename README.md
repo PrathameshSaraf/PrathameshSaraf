@@ -10,18 +10,13 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+  <code><a href=""><img alt="Facebook" title="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" height="42" width="45"></a></code>
+  <code><a href=""><img alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="42" width="45"></a></code>
+  <code><a href=""><img alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="42" width="45"></a></code>
+  <code><a href=""><img alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="42" width="45"></a></code>
+  <code><a href=""><img alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="42" width="45"></a></code>
+  <code><a href=""><img alt="Whatsapp" title="Whatsapp" src="https://www.pngitem.com/pimgs/m/40-404856_transparent-whatsapp-icon-transparent-png-circle-logo-whatsapp.png" height="42" width="45"></a></code>
+  </p>
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/PrathameshSaraf">
 </p>
