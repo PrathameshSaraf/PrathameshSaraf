@@ -37,11 +37,11 @@
 <code><a href="https://github.com/search?q=user%3APrathameshSaraf+css"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42" width="45"></a></code>
 <code><a href="https://github.com/search?q=user%3APrathameshSaraf+C"><img alt="C programming" title="C Programming" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="42"width="45"></a></code>
 <code><a href="https://github.com/search?q=user%3APrathameshSaraf+language%3C++"><img alt="C++" title="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="42"width="45"></a></code>
-<code><a href="https://github.com/search?q=user%3APrathameshSaraf+language%3github"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42" width="45"></a></code>
-<code><a href="https://github.com/search?q=user%3APrathameshSaraf+language%3java"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42" width="45"></a></code>
-<code><a href="https://github.com/search?q=user%3APrathameshSaraf+language%3javascript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42" width="45"></a></code>
-<code><a href="https://github.com/search?q=user%3APrathameshSaraf+language%3php"><img alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="42" width="45"></a></code>
-<code><a href="https://github.com/search?q=user%3APrathameshSaraf+language%3python"><img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="42" width="45"></a></code>
+<code><a href="https://github.com/search?q=user%3APrathameshSaraf+github"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42" width="45"></a></code>
+<code><a href="https://github.com/search?q=user%3APrathameshSaraf+html"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42" width="45"></a></code>
+<code><a href="https://github.com/search?q=user%3APrathameshSaraf+javascript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42" width="45"></a></code>
+<code><a href="https://github.com/search?q=user%3APrathameshSaraf+php"><img alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="42" width="45"></a></code>
+<code><a href="https://github.com/search?q=user%3APrathameshSaraf+python"><img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="42" width="45"></a></code>
 </p>
 
 ### 🧰 Frameworks and libraries
