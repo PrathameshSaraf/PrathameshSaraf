@@ -45,9 +45,9 @@
 </p>
 
 ---
----
 
-### 📱 Freelancer Projects
+
+<h1>📱 Freelancer Projects</h1> 
 
 #### **1. Fable App**
 <a href="https://play.google.com/store/apps/details?id=com.fabelindia.name&hl=en_IN">
@@ -81,8 +81,6 @@
 - 🔗 [Download on Play Store](https://play.google.com/store/apps/details?id=com.datacliff.dc_health_clinic_app)
 
 ---
-
-
 
 
 ### 📈 GitHub Stats
