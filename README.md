@@ -64,6 +64,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.datacliff.mamas_bhangar_app&pli=1">
   <img src="https://github.com/user-attachments/assets/f333c408-5758-404f-8ed5-e5d2afc7a9d8" alt="Mama's Bhangar App" width="400">
 </a>
+![Screenshot 2024-12-07 092140](https://github.com/user-attachments/assets/33357ceb-eb0b-403f-97e2-7f3a7519720c)
 
 - 📄 **Description**: A scalable app.
 - 🌟 **Technologies Used**: Flutter, Firebase, UI/UX Design.
